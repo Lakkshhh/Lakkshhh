@@ -8,7 +8,7 @@
 - 🤖 I strongly believe in the power of Artificial Intelligence and the impact it can have.
 
 <hr/>
-  <img src = "https://activity-graph.herokuapp.com/graph?username=Lakkshhh&bg_color=00364a&color=7a7a7a&line=ffffff&point=008cb4&area=true&hide_border=true" alt = "Contribution graph"/>  
+  <img src = "https://activity-graph.herokuapp.com/graph?username=Lakkshhh&bg_color=00364a&color=c0c0c0&line=ffffff&point=008cb4&area=true&hide_border=true" alt = "Contribution graph"/>  
 <hr/>
 
 ## Toolbox:
