@@ -1,4 +1,4 @@
-# Welcome to my GitHub Repository!
+# Welcome to my GitHub Repository
 
 Hello there! My name is Lakksh Tyagi, and I'm delighted to have you here on my GitHub account. As a passionate Computer Science student pursuing my bachelor's degree at VIT, Vellore, I'm constantly exploring various fascinating projects and expanding my knowledge in the field. I'm particularly enthusiastic about the realm of Artificial Intelligence, but recently I have been working on Java backend web development. I'm also open to exploring other exciting domains.
 
