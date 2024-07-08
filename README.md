@@ -39,7 +39,7 @@ Being a student, I consider GitHub as my playground, where I can showcase my pro
 ![Fastapi](https://img.shields.io/badge/Fastapi-005C84?style=flat-square&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-3776AB?style=flat-square&logo=django&logoColor=white)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lakkshhh&theme=aura&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lakkshhh&theme=github-dark&date_format=j%20M%5B%20Y%5D&card_width=1000)](https://git.io/streak-stats)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
