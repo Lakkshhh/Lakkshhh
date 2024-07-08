@@ -10,9 +10,6 @@ Hello there! My name is Lakksh Tyagi, and I'm delighted to have you here on my G
 - 🛢 &nbsp; MySQL | MongoDb | Postman
 - 🔧 &nbsp;  Visual Studio code  | Git |  Jupyter | Google collab
 
-<h3>🌐 Toolbox</h3>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="CSS" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="CSS" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="CSS" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="CSS" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="CSS" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" alt="CSS" width="50" height="50"/>
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lakkshhh&theme=chartreuse-dark&date_format=j%20M%5B%20Y%5D&card_width=1000)](https://git.io/streak-stats)
 
 <h3> 🤝🏻 Connect with Me </h3>
