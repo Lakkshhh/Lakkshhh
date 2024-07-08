@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-Hello there! My name is Lakksh Tyagi, and I'm delighted to have you here on my GitHub account. As a passionate Computer Science student pursuing my bachelor's degree at VIT, Vellore, I'm constantly exploring various fascinating projects and expanding my knowledge in the field. I'm particularly enthusiastic about the realm of Artificial Intelligence, but recently I have been working on Java backend web development. I'm also open to exploring other exciting domains. Being a student, I consider GitHub as my playground, where I can showcase my projects and share my passion for coding with the world. I believe in the power of collaboration and the incredible things we can achieve by working together. So, if you find any of my projects interesting and would like to collaborate, I'm all ears! Within my repository, you'll find an array of projects I've been working on. These projects are a reflection of my growing skills, knowledge, and the curiosity that drives me. Feel free to explore, experiment, and contribute to any project that catches your attention. Your insights, suggestions, and contributions are highly appreciated!
+Ever since I was a kid, I've been fascinated by computers and how websites work. Exploring different sites and imagining their inner workings led me to pursue a degree in computer science at VIT Vellore, where I got into web development and artificial intelligence. My internships gave me hands-on experience with conversational AI, LLMs, and backend development. Now, I love experimenting with new technologies and creating cool projects, which I share on my GitHub. Feel free to check them out!
 
 <h3>🛠 Tech Stack</h3>
 
