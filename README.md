@@ -55,7 +55,7 @@ Thank you for visiting my GitHub repository. Have a great day!
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dct-tcd&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="lalit's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Lakkshhh&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Lakksh's Github Stats">
 
 </br>
 
