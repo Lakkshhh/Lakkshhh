@@ -25,19 +25,13 @@ Being a student, I consider GitHub as my playground, where I can showcase my pro
 ![Vite](https://img.shields.io/badge/Vite-593D88?style=flat-square&logo=vite&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![MongoDb](https://img.shields.io/badge/MongoDb-005C84?style=flat-square&logo=mongodb&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-00C7B7?style=flat-square&logo=vercel&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-005C84?style=flat-square&logo=firebase&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-1572B6?style=flat-square&logo=supabase&logoColor=white)
-![Fastapi](https://img.shields.io/badge/Fastapi-005C84?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-3776AB?style=flat-square&logo=django&logoColor=white)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lakkshhh&theme=github-dark&date_format=j%20M%5B%20Y%5D&card_width=1000)](https://git.io/streak-stats)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
@@ -45,5 +39,3 @@ Being a student, I consider GitHub as my playground, where I can showcase my pro
 &nbsp; <a href="https://www.linkedin.com/in/lakksh-tyagi-9297b6230/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:lakksh.tyagi22@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lakkshhh&theme=github-dark&date_format=j%20M%5B%20Y%5D&card_width=1000)](https://git.io/streak-stats)
