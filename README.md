@@ -51,7 +51,9 @@ Thank you for visiting my GitHub repository. Have a great day!
 ![Fastapi](https://img.shields.io/badge/Fastapi-005C84?style=flat-square&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-3776AB?style=flat-square&logo=django&logoColor=white)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lakkshhh&theme=submarine-flowers&border_radius=5&fire=DD701B)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lakkshhh&theme=aura&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+<h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
 &nbsp; <a href="https://www.linkedin.com/in/Dev-chaitanya-tiwari-a30478200/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
