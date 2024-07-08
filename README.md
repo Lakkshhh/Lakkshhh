@@ -10,7 +10,7 @@ Hello there! My name is Lakksh Tyagi, and I'm delighted to have you here on my G
 - 🛢 &nbsp; MySQL | MongoDb | Postman
 - 🔧 &nbsp;  Visual Studio code  | Git |  Jupyter | Google collab
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lakkshhh&theme=chartreuse-dark&date_format=j%20M%5B%20Y%5D&card_width=1000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lakkshhh&theme=blood&date_format=j%20M%5B%20Y%5D&card_width=1000)](https://git.io/streak-stats)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
