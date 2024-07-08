@@ -53,12 +53,6 @@ Thank you for visiting my GitHub repository. Have a great day!
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lakkshhh&theme=submarine-flowers&border_radius=5&fire=DD701B)](https://git.io/streak-stats)
 
-<br>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Lakkshhh&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Lakksh's Github Stats">
-
-</br>
-
 <p align="center">
 &nbsp; <a href="https://www.linkedin.com/in/Dev-chaitanya-tiwari-a30478200/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:Devchaitanyatiwari@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
