@@ -51,7 +51,7 @@ Thank you for visiting my GitHub repository. Have a great day!
 ![Fastapi](https://img.shields.io/badge/Fastapi-005C84?style=flat-square&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-3776AB?style=flat-square&logo=django&logoColor=white)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dct-tcd&theme=submarine-flowers&border_radius=5&fire=DD701B)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lakkshhh&theme=submarine-flowers&border_radius=5&fire=DD701B)](https://git.io/streak-stats)
 
 <br>
 
