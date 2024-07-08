@@ -6,18 +6,6 @@ Hello there! My name is Lakksh Tyagi, and I'm delighted to have you here on my G
 
 Being a student, I consider GitHub as my playground, where I can showcase my projects and share my passion for coding with the world. I believe in the power of collaboration and the incredible things we can achieve by working together. So, if you find any of my projects interesting and would like to collaborate, I'm all ears! Within my repository, you'll find an array of projects I've been working on. These projects are a reflection of my growing skills, knowledge, and the curiosity that drives me. Feel free to explore, experiment, and contribute to any project that catches your attention. Your insights, suggestions, and contributions are highly appreciated!
 
-## Collaboration
-
-Collaboration is the key to innovation, and I'm always excited to team up with like-minded individuals. If you're interested in collaborating on any project or have an idea you'd like to discuss, don't hesitate to reach out to me. You can contact me by sending an email to lakksh.tyagi22@gmail.com. I'm looking forward to hearing from you and working together to create something amazing!
-
-## Let's Connect!
-
-Apart from GitHub, you can find me on various other platforms. Feel free to connect with me on:
-
-LinkedIn: https://www.linkedin.com/in/lakksh-tyagi-9297b6230/
-
-Thank you for visiting my GitHub repository. Have a great day!
-
 ## Toolbox:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="CSS" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="CSS" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="CSS" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="CSS" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="CSS" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" alt="CSS" width="50" height="50"/>
 
@@ -56,6 +44,6 @@ Thank you for visiting my GitHub repository. Have a great day!
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-&nbsp; <a href="https://www.linkedin.com/in/Dev-chaitanya-tiwari-a30478200/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:Devchaitanyatiwari@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+&nbsp; <a href="https://www.linkedin.com/in/lakksh-tyagi-9297b6230/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:lakksh.tyagi22@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
