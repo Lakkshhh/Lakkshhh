@@ -17,7 +17,7 @@ Hello there! My name is Lakksh Tyagi, and I'm delighted to have you here on my G
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
-<img src="https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=black">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 </p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lakkshhh&theme=blood&date_format=j%20M%5B%20Y%5D&card_width=1000)](https://git.io/streak-stats)
