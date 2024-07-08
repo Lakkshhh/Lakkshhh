@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-Ever since I was a kid, I've been fascinated by computers and how websites work. Exploring different sites and imagining their inner workings led me to pursue a degree in computer science at VIT Vellore, where I got into web development and artificial intelligence. My internships gave me hands-on experience with conversational AI, LLMs, and backend development. Now, I love experimenting with new technologies and creating cool projects, which I share on my GitHub. Feel free to check them out!
+I'm an upcoming master's student in Computer Science at the University of Florida. I recently completed my bachelor's degree from VIT Vellore and internships at the AI lab at Husqvarna and as a backend developer at Westernacher. Over the years, I've self-taught myself many technologies and frameworks that I found interesting. I'm a programmer and web developer passionate about many fields, driven by passion and countless personal projects.
 
 <h3>🛠 Tech Stack</h3>
 
