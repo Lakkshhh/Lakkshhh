@@ -6,7 +6,7 @@ I'm currently pursuing my master's in Computer Science at the University of Flor
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Java | Python | HTML | CSS | JavaScript | React | Spring Boot  
+- 💻 &nbsp; Java | Python | HTML | CSS | JavaScript | React | Spring Boot | Pony
 - 🛢 &nbsp; MySQL | MongoDb | Postman | Cloudinary
 - 🔧 &nbsp;  Visual Studio code  | Git |  Jupyter | Google collab
 
