@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-I'm currently pursuing my master's in Computer Science at the University of Florida. I recently completed my bachelor's degree from VIT Vellore and internships at the AI lab at Husqvarna and as a backend developer at Westernacher. Over the years, I've self-taught myself many technologies and frameworks that I found interesting. I'm a programmer and web developer passionate about many fields, driven by passion and countless personal projects.
+I'm currently pursuing my master's in Computer Science at the University of Florida. I recently completed my bachelor's degree from VIT Vellore and internships at the AI lab at Husqvarna and as a backend developer at Westernacher. Over the years, I've self-taught myself many technologies and frameworks that I found interesting. I'm a programmer passionate about many fields, driven by passion and countless personal projects.
 
 <h3>🛠 Tech Stack</h3>
 
