@@ -28,8 +28,6 @@ I'm currently pursuing my master's in Computer Science at the University of Flor
   
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lakkshhh&theme=blood&date_format=j%20M%5B%20Y%5D&card_width=1000)](https://git.io/streak-stats)
-
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
