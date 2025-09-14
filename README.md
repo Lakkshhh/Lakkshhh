@@ -11,7 +11,6 @@ I'm currently pursuing my master's in Computer Science at the University of Flor
 - 🛢   Databases & APIs: MySQL · MongoDB · REST APIs · Postman · Cloudinary
 - 🔧   Tools & Platforms: Visual Studio Code · Git · Jupyter Notebook · Google Colab
 
-</p>
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -26,7 +25,6 @@ I'm currently pursuing my master's in Computer Science at the University of Flor
   <img src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
   <img src="https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badge">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=FF6C37&logo=Postman&logoColor=FFFFFF&label=">
-  
 </p>
 
 <h3> 🤝🏻 Connect with Me </h3>
