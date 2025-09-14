@@ -8,10 +8,10 @@ I’m pursuing my Master’s in Computer Science at the University of Florida af
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻   Languages & Frameworks: Java · Python · HTML · CSS · JavaScript · React · Spring Boot · Pony
-- 🤖   Machine Learning & AI: scikit-learn · Pandas · NumPy · PyTorch · TensorFlow · Large Language Models (LLMs) · Prompt Engineering
-- 🛢   Databases & APIs: MySQL · MongoDB · REST APIs · Postman · Cloudinary
-- 🔧   Tools & Platforms: Visual Studio Code · Git · Jupyter Notebook · Google Colab
+- 💻   <h4>Languages & Frameworks:</h4> Java · Python · HTML · CSS · JavaScript · React · Spring Boot · Pony
+- 🤖   <h4>Machine Learning & AI:</h4> scikit-learn · Pandas · NumPy · PyTorch · TensorFlow · Large Language Models (LLMs) · Prompt Engineering
+- 🛢   <h4>Databases & APIs:</h4> MySQL · MongoDB · REST APIs · Postman · Cloudinary
+- 🔧   <h4>Tools & Platforms:</h4> Visual Studio Code · Git · Jupyter Notebook · Google Colab
 
 <p>
   <!-- Languages & Frameworks -->
