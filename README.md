@@ -1,10 +1,12 @@
-<h1> Hey there! I'm Lakksh 👋 </h1>
+<h1> Hey, I'm Lakksh! </h1>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-I turn data into intelligence and build scalable software that drives real-world impact. I help organizations extract insights from complex datasets, build end-to-end machine learning pipelines, and design AI solutions with large language models and prompt engineering. On the software side, I create full-stack applications with intuitive frontends and reliable backends and APIs—turning AI models into products people actually use.
+I turn data into intelligence and build software that solves real problems, not just in notebooks, but in production.
 
-I’m pursuing my Master’s in Computer Science at the University of Florida after earning my B.Tech from VIT Vellore. My experience spans internships as an ML Engineer at CraftySogo, in the AI Lab at Husqvarna, and as a Backend Developer at Westernacher, along with research at the SMILE Lab. Over the years I’ve also self-taught myself a wide range of technologies and frameworks through countless personal projects—driven by curiosity and a passion for building. I’ve built a financial insights AI agent, led an LLM-driven dashboard project, designed AI-powered chatbots with automated HR workflows, developed RESTful APIs and microservices, and fine-tuned deep learning models for emotion classification using advanced augmentation, GPU optimization, and hyperparameter tuning. My work sits at the intersection of data science, machine learning, and software engineering, combining key ML libraries with modern development tools.
+I'm finishing my MS in Computer Science at the University of Florida (Go Gators! 🐊) in May 2026, where I've maintained a 4.0 GPA while working as a Research Assistant at SMILE Lab under Dr. Ruogu Fang, one of the most technically challenging and rewarding experiences of my grad school journey. But my roots are in engineering. I've interned as an ML Engineer at CraftySogo, building an LLM-powered financial analytics tool using Mistral 7B and Gemini API that boosted client profits by 10%. Before that, I was a Backend Developer at Westernacher Consulting, building production microservices in Java/Spring Boot. And at Husqvarna, I deployed an AI-powered HR chatbot that automated 80% of HR workflows, turning AI models into products people actually use.
+
+I work across the stack — Python, Java, Go, React, PyTorch, TenserFlow — and I'm most energized when the problem is hard and the stakes are real. My work sits at the intersection of AI and software engineering, combining key machine learning libraries with modern development tools. Graduating May 2026 and actively looking for my next opportunity. I update regularly about projects I'm building, let's connect!
 
 <h3>🛠 Tech Stack</h3>
 
