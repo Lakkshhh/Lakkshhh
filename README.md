@@ -4,7 +4,7 @@ I turn data into intelligence and build software that solves real problems, not 
 
 I'm finishing my MS in Computer Science at the University of Florida (Go Gators! 🐊) in May 2026, where I've maintained a 4.0 GPA while working as a Research Assistant at SMILE Lab under Dr. Ruogu Fang, one of the most technically challenging and rewarding experiences of my grad school journey. But my roots are in engineering. I've interned as an ML Engineer at CraftySogo, building an LLM-powered financial analytics tool using Mistral 7B and Gemini API that boosted client profits by 10%. Before that, I was a Backend Developer at Westernacher Consulting, building production microservices in Java/Spring Boot. And at Husqvarna, I deployed an AI-powered HR chatbot that automated 80% of HR workflows, turning AI models into products people actually use.
 
-I work across the stack — Python, Java, Go, React, PyTorch, TenserFlow — and I'm most energized when the problem is hard and the stakes are real. My work sits at the intersection of AI and software engineering, combining key machine learning libraries with modern development tools.
+I love working on projects that sit at the intersection of software engineering and machine learning, and I'm always most excited when what I'm building actually makes an impact!
 
 <h3>Tech Stack</h3>
 
