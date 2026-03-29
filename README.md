@@ -8,10 +8,10 @@ I work across the stack — Python, Java, Go, React, PyTorch, TenserFlow — and
 
 <h3>Tech Stack</h3>
 
-- <b>Languages & Frameworks:</b> Java · Python · HTML · CSS · JavaScript · React · Spring Boot · Pony
+- <b>Languages & Frameworks:</b> Java · Python · HTML · CSS · JavaScript · TypeScript · Next.js · React · Spring Boot · Pony
 - <b>Machine Learning & AI:</b> scikit-learn · Pandas · NumPy · PyTorch · TensorFlow · Large Language Models · Prompt Engineering
-- <b>Databases & APIs:</b> MySQL · MongoDB · REST APIs · Postman · Cloudinary
-- <b>Tools & Platforms:</b> Visual Studio Code · Git · Jupyter Notebook · Google Colab
+- <b>Databases & APIs:</b> MySQL · MongoDB · REST APIs · Postman · Cloudinary · Supabase · AWS · FastAPI
+- <b>Tools & Platforms:</b> Visual Studio Code · Git · Jupyter Notebook · Google Colab · Claude Code · Codex · Cursor
 
 <h3> Connect with Me </h3>
 
